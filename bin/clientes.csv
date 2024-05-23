@@ -1,3 +1,4 @@
-nome;telefone;email
-Carlos;41 9999-3333;Carlos@email.com
-Maria;41 9999-7777;Maria@email.com
+nome;telefone;email;credito;emprestado;cpf;peso;altura;cnpj;iestadual;ano
+Carlos;41 9999-3333;Carlos@email.com;500;200;1234567890;70;1.70;;;
+Maria;41 9999-7777;Maria@email.com;400;150;0987654321;55;1.63;;;
+Amazon;41 9999-8888;amazon@email.com;5000;1000;;;;2222222222;333333333;2002
